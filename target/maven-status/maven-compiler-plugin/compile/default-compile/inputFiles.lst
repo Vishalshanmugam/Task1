@@ -1,0 +1,10 @@
+/workspaces/Task1/src/main/java/com/example/task/TaskApplication.java
+/workspaces/Task1/src/main/java/com/example/task/controller/TaskController.java
+/workspaces/Task1/src/main/java/com/example/task/service/TaskService.java
+/workspaces/Task1/src/main/java/com/example/task/util/CommandValidator.java
+/workspaces/Task1/src/main/java/com/example/task/model/Task.java
+/workspaces/Task1/src/main/java/com/example/task/model/TaskExecution.java
+/workspaces/Task1/src/main/java/com/example/task/executor/CommandExecutor.java
+/workspaces/Task1/src/main/java/com/example/task/controller/WelcomeController.java
+/workspaces/Task1/src/main/java/com/example/task/dto/ErrorResponse.java
+/workspaces/Task1/src/main/java/com/example/task/repository/TaskRepository.java
