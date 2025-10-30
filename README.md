@@ -1,4 +1,4 @@
-<img width="1897" height="85" alt="screenshot6" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" /># Task 1 – Java Backend and REST API (Kaiburr Assignment)
+# Task 1 – Java Backend and REST API (Kaiburr Assignment)
 
 ## Overview
 This is a Spring Boot REST API that manages "Task" objects representing shell commands. Each task can be created, viewed, deleted, searched, and executed. Command outputs are stored as TaskExecutions in MongoDB.
@@ -16,13 +16,13 @@ This is a Spring Boot REST API that manages "Task" objects representing shell co
 mvn clean package
 java -jar target/task-runner-0.0.1-SNAPSHOT.jar
 
-![UI Screenshot](./Screenshot/screenshot1)
+<img width="1897" height="85" alt="screenshot1" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
-![UI Screenshot](./Screenshot/screenshot2)
+<img width="1897" height="85" alt="screenshot2" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
-![UI Screenshot](./Screenshot/screenshot3)
+<img width="1897" height="85" alt="screenshot3" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
-![UI Screenshot](./Screenshot/screenshot5)
+<img width="1897" height="85" alt="screenshot5" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 ## Features
 - Create a new task  
@@ -44,22 +44,21 @@ java -jar target/task-runner-0.0.1-SNAPSHOT.jar
 
 ## Creating a new task
 
-![UI Screenshot](./Screenshot/screenshot6)
+<img width="1897" height="85" alt="screenshot6" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 ## Listing Tasks by using ID
 
-![UI Screenshot](./Screenshot/screenshot7)
+<img width="1897" height="85" alt="screenshot7" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 ## Executing Tasks by using name
 
-![UI Screenshot](./Screenshot/screenshot8)
+<img width="1897" height="85" alt="screenshot8" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 ## Updated webpage
 
-![UI Screenshot](./Screenshot/screenshot9)
+<img width="1897" height="85" alt="screenshot9" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 ## Deleting a task
 
-![UI Screenshot](./Screenshot/screenshot10)
-
+<img width="1897" height="85" alt="screenshot10" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
