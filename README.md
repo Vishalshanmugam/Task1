@@ -56,7 +56,7 @@ java -jar target/task-runner-0.0.1-SNAPSHOT.jar
 
 ## Updated webpage
 
-<img width="1897" height="85" alt="screenshot9" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+<img width="1897" height="85" alt="screenshot" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 ## Deleting a task
 
