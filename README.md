@@ -15,7 +15,7 @@ This is a Spring Boot REST API that manages "Task" objects representing shell co
 ```bash
 mvn clean package
 java -jar target/task-runner-0.0.1-SNAPSHOT.jar
-
+```
 <img width="1897" height="85" alt="screenshot1" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
 
 <img width="1897" height="85" alt="screenshot2" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
