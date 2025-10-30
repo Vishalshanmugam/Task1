@@ -16,13 +16,13 @@ This is a Spring Boot REST API that manages "Task" objects representing shell co
 mvn clean package
 java -jar target/task-runner-0.0.1-SNAPSHOT.jar
 ```
-<img width="1897" height="85" alt="screenshot1" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot1.png)
 
-<img width="1897" height="85" alt="screenshot2" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot2.png)
 
-<img width="1897" height="85" alt="screenshot3" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot3.png)
 
-<img width="1897" height="85" alt="screenshot5" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot5.png)
 
 ## Features
 - Create a new task  
@@ -44,21 +44,21 @@ java -jar target/task-runner-0.0.1-SNAPSHOT.jar
 
 ## Creating a new task
 
-<img width="1897" height="85" alt="screenshot6" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot6.png)
 
 ## Listing Tasks by using ID
 
-<img width="1897" height="85" alt="screenshot7" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot7.png)
 
 ## Executing Tasks by using name
 
-<img width="1897" height="85" alt="screenshot8" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot8.png)
 
 ## Updated webpage
 
-<img width="1897" height="85" alt="screenshot" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot9.png)
 
 ## Deleting a task
 
-<img width="1897" height="85" alt="screenshot10" src="https://github.com/user-attachments/assets/7545ac69-b2d1-4d5b-a156-794fdf214c92" />
+![Output Screenshot](https://github.com/Vishalshanmugam/Task1/blob/main/Screenshot/screenshot10.png)
 
